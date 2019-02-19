@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link to my portfolio](https://colanetbiz.github.io/markdown-portfolio/)
+
+[I'm an inline-style link](https://www.google.com)
